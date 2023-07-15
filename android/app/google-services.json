@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "900810597451",
+    "project_id": "trashbanker",
+    "storage_bucket": "trashbanker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900810597451:android:3f9c716c114a6816e659ce",
+        "android_client_info": {
+          "package_name": "com.example.trashbanker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900810597451-qr6brguvkfmff6rb43q1uh2bk8g7r8a6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrV1sJYZ911xtqwg0Wzbyv9K7lQmxNLcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900810597451-qr6brguvkfmff6rb43q1uh2bk8g7r8a6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "900810597451-ivcn078fuabt4630kro34c5gi5e7ud6k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.trashbanker.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
